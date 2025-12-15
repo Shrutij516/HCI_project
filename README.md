@@ -10,15 +10,15 @@ This project was developed as part of an HCI / data visualization assignment and
 
 ## Repository Structure
 
-SoniDash/
-├── index.html # Web interface (UI layout + library imports)
-├── script.js # Core logic: data parsing, chart rendering, audio playback
-├── SoniDash.ipynb # Data preprocessing and KPI generation notebook
-├── luxury_cosmetics_popups.xlsx # Original dataset (Excel format)
-├── SoniDash_KPI.csv # Processed dataset used by the web app
-├── Final_Presentation.pptx # Final presentation slides
-├── Project_description.pdf # Research motivation and evaluation plan
-└── README.md # Project documentation
+SoniDash/ <br>
+├── index.html # Web interface (UI layout + library imports) <br>
+├── script.js # Core logic: data parsing, chart rendering, audio playback <br>
+├── SoniDash.ipynb # Data preprocessing and KPI generation notebook <br>
+├── luxury_cosmetics_popups.xlsx # Original dataset (Excel format) <br>
+├── SoniDash_KPI.csv # Processed dataset used by the web app <br>
+├── Final_Presentation.pptx # Final presentation slides <br>
+├── Project_description.pdf # Research motivation and evaluation plan <br>
+└── README.md # Project documentation <br>
 
 
 
