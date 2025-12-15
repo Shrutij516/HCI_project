@@ -16,8 +16,6 @@ SoniDash/ <br>
 ├── SoniDash.ipynb # Data preprocessing and KPI generation notebook <br>
 ├── luxury_cosmetics_popups.xlsx # Original dataset (Excel format) <br>
 ├── SoniDash_KPI.csv # Processed dataset used by the web app <br>
-├── Final_Presentation.pptx # Final presentation slides <br>
-├── Project_description.pdf # Research motivation and evaluation plan <br>
 └── README.md # Project documentation <br>
 
 
